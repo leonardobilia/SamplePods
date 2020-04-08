@@ -1,15 +1,15 @@
 //
-//  SamplePodsTests.swift
-//  SamplePodsTests
+//  SPCommonTests.swift
+//  SPCommonTests
 //
 //  Created by Leonardo Bilia on 08/04/20.
 //  Copyright © 2020 Leonardo Bilia. All rights reserved.
 //
 
 import XCTest
-@testable import SamplePods
+@testable import SPCommon
 
-class SamplePodsTests: XCTestCase {
+class SPCommonTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
